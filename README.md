@@ -36,6 +36,7 @@ pip install -r requirements.txt
 - <AUTHOR 2>
 - <AUTHOR 3>
 - <AUTHOR 4>
+- <AUTHOR 5>
 
 ## License
 
