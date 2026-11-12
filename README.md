@@ -1,6 +1,6 @@
-# YOUR TITLE HERE
+# Robustness of School Contact Networks to Immunization
 
-The repository contains code accompanying the following paper: <AUTHOR LIST>, TITLE (<YEAR>).
+The repository contains code accompanying the following paper: <Raina Tandon> <Gabrielle Zupan> <Noor Khan> <Maggie Bothwell>, Robustness of School Contact Networks to Immunization (<2026>).
 
 If you use this repository in any fashion in your own work, please cite our work according to the `CITATION.cff`.
 
