@@ -1,8 +1,6 @@
 # Robustness of School Contact Networks to Immunization
 
-The repository contains code accompanying the following paper: <Raina Tandon> <Gabrielle Zupan> <Noor Khan> <Maggie Bothwell>, Robustness of School Contact Networks to Immunization (<2026>).
-
-If you use this repository in any fashion in your own work, please cite our work according to the `CITATION.cff`.
+The repository contains code accompanying the following paper: Raina Tandon, Gabrielle Zupan, Noor Khan, Maggie Bothwell, Robustness of School Contact Networks to Immunization (2026).
 
 # Contents
 
@@ -20,7 +18,17 @@ If you use this repository in any fashion in your own work, please cite our work
 
 | Path | Role |
 |---|---|
-| `<FILENAME HERE>` | <WHAT THE FILE IS OR WHAT IT DOES> |
+| `11-09-2026_code001.ipynb` | Construction of friendship and contact diary networks |
+| `11-09-2026_code002.ipynb` | Construction of the temporal network of the sensor data |
+| `11-09-2026_code003.ipynb` | Reference code to import the constructed networks across notebooks |
+| `11-09-2026_code004.ipynb` | SIR simulations using targetted versus random immunization on the temporal network |
+| `11-09-2026_code005.ipynb` | Construction of temporal sensor network, friendship network, and contact diary network using only students in all three datasets |
+
+
+
+
+
+
 
 ## Installation
 
@@ -32,11 +40,10 @@ pip install -r requirements.txt
 
 ## Authors
 
-- <AUTHOR 1>
-- <AUTHOR 2>
-- <AUTHOR 3>
-- <AUTHOR 4>
-- <AUTHOR 5>
+- Raina Tandon
+- Gabrielle Zupan
+- Noor Khan
+- Maggie Bothwell
 
 ## License
 
