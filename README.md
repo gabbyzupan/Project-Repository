@@ -1,6 +1,6 @@
-# Robustness of School Contact Networks to Immunization
+# Comparing Targeted Immunizations using Sensor- and Survey-Based Data of a School Contact Network
 
-The repository contains code accompanying the following paper: Raina Tandon, Gabrielle Zupan, Noor Khan, Maggie Bothwell, Robustness of School Contact Networks to Immunization (2026).
+The repository contains code accompanying the following paper: Raina Tandon, Gabrielle Zupan, Noor Khan, Maggie Bothwell, Comparing Targeted Immunizations using Sensor- and Survey-Based Data of a School Contact Network (2026).
 
 # Contents
 
@@ -27,6 +27,8 @@ The repository contains code accompanying the following paper: Raina Tandon, Gab
 | `Code/11-09-2026_code004.ipynb` | SIR simulations using targetted versus random immunization on the temporal network |
 | `Code/11-11-2026_code005.ipynb` | Construction of temporal sensor network, friendship network, and contact diary network using only students in all three datasets |
 | `Code/11-11-2026_code006.ipynb` | Comparison of SIR simulations using targetted versus random immunization on all three networks|
+| `Code/11-17-2026_code007.ipynb` | Independently select students from each network and run SIR trials at coverages (0.1, 0.2, 0.3, 0.4, 0.5)|
+| `Code/11-17-2026_code008.ipynb` | Independently select students from each network and run SIR trials at coverages (0.1, 0.15, 0.2, 0.25, 0.3, 0.35)|
 | `Code/simulation_results.csv` | Includes the all the SIR simulaton results, including immunizaton strategy,immunization coverage, trial number, and epidemic size |
 | `Code/student_rankings.csv` | Ranking of each student based on thier degree centrality, betweenness centrality, and reachability in the different networks|
 
